@@ -1,0 +1,9 @@
+{
+	"name": "xor-crypt",
+	"description": "XOR Crypt for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/xor-crypt",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
